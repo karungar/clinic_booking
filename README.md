@@ -2,7 +2,8 @@
 
 A comprehensive healthcare clinic management solution for scheduling appointments, managing patients, staff, medical records, and payments.
 
-![Clinic Database ERD]([(https://app.diagrams.net/?src=about)])
+ ![Clinic Database ERD](https://github.com/user-attachments/assets/098ec0a5-1555-4189-ab9e-2ba0da37f190)
+
 
 ## Project Description
 
