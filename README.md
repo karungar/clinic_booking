@@ -1,13 +1,17 @@
 # Clinic Booking System
 
-A comprehensive healthcare clinic management solution for scheduling appointments, managing patients, staff, medical records, and payments.
-
- ![Clinic Database ERD](https://github.com/user-attachments/assets/098ec0a5-1555-4189-ab9e-2ba0da37f190)
-
 
 ## Project Description
 
-The Clinic Booking System is a robust database solution designed to efficiently manage all aspects of a healthcare clinic's operations. This system provides a centralized database for multiple clinic locations, their departments, medical staff, services, and patient information, with a focus on streamlining the appointment booking process.
+The Clinic Booking System is a comprehensive healthcare clinic management solution for scheduling appointments, managing patients, staff, medical records, and payments.
+This system provides a centralized database for multiple clinic locations, their departments, medical staff, services, and patient information, with a focus on streamlining the appointment booking process.
+
+## Entity Relationship Diagram (ERD)
+
+The ERD for this database visually represents all tables and their relationships, providing a clear overview of the database structure.
+
+
+ ![Clinic Database ERD](https://github.com/user-attachments/assets/098ec0a5-1555-4189-ab9e-2ba0da37f190)
 
 ### Key Features
 
